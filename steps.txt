@@ -1,0 +1,104 @@
+Day-1
+·       Introduction to AWS and Cloud Computing
+o   Key benefits of AWS for developers (Scalability, High Availability,
+o   Pay-as-you-go)
+o   Overview of AWS Global Infrastructure (Regions, AZs, Edge locations)
+PPT
+·       AWS Development Tools & SDKs
+o   AWS SDKs (Java, Python (Boto3), JavaScript (AWS SDK for JS), Go, .NET)
+o   AWS CLI for automation
+o   AWS CloudShell for interactive development
+PPT
+o   AWS Cloud9 for cloud-based IDE
+https://www.youtube.com/watch?v=PsuxFbXGvrk&t=515s
+
+·       Infrastructure as Code (IaC) Basics
+o   AWS CloudFormation
+o   AWS Cloud Development Kit (CDK)
+o   AWS Serverless Application Model (SAM)
+o   Terraform integration
+https://www.youtube.com/watch?v=alAZl5udvAI&ab_channel=CodeSagar
+https://www.youtube.com/watch?v=ix-TyIOpdR8&ab_channel=DevOpsProEnglish
+https://www.youtube.com/watch?v=jJX6S5JAGpI&list=PL7iMyoQPMtAOz187ezONf7pL8oGZRobYl
+
+
+2. Developing Applications on AWS
+Objective: Learn how to build scalable and resilient applications using AWS.
+Topics:
+·       Application Architecture Patterns
+o   Monolithic vs. Microservices
+o   Event-driven architectures (AWS EventBridge, SNS, SQS)
+o   Orchestration vs. Choreography (AWS Step Functions)
+o   Stateless vs. Stateful applications
+o   Fault-tolerant design patterns (Retries, Dead-letter queues, Circuit Breakers)
+·       Developing & Integrating Applications with AWS Services
+o   Using AWS SDKs for interacting with AWS services
+o   API development with Amazon API Gateway
+https://www.youtube.com/watch?v=ir777XGcAuw
+
+o   Working with messaging services:
+o   Amazon SQS (Message queuing)
+https://www.youtube.com/watch?v=Ekty8xUc4n4&t=982s
+https://www.youtube.com/watch?v=qICmlaJsISo
+https://www.youtube.com/watch?v=q3zo3YREfJI
+
+o   Amazon SNS (Pub/Sub messaging)
+https://www.youtube.com/watch?v=j5Xp51eUyXE
+https://www.youtube.com/watch?v=lF7Ba4-8ER4
+https://www.youtube.com/watch?v=9kXMLTNaQj8
+o   AWS EventBridge (Event-driven workflows)
+https://www.youtube.com/watch?v=8uFkqy0oIX0
+https://www.youtube.com/watch?v=jXQhaJIxLnE
+
+
+
+
+o   Streaming data with Amazon Kinesis
+https://www.youtube.com/watch?v=RR0hhZUyjjc&list=PLLv1Hn1N3bRwhRLFm37JGCgkcI8wWtQ-a
+
+
+
+https://www.youtube.com/watch?v=1vMo6K4Zyas&list=PL-bgVzzRdaPhE4h7u9OWe0cf7P6H-MpeM&index=20
+
+
+————
+
+
+
+Day-2
+
+Step functions
+https://www.youtube.com/watch?v=ge6Dm2HYG1E
+https://www.youtube.com/watch?v=GVpmVu8vcNQ&t=915s
+
+
+Elasticcache
+https://www.youtube.com/watch?v=mcF3iefRqLY&t=1008s
+https://gist.github.com/iam-veeramalla/751063be092f6e0548e206fb0d0bdd3d
+https://www.youtube.com/watch?v=H3--8038so8
+
+Secret manager
+https://www.youtube.com/watch?v=pt9nAS4PVBI
+
+
+AWS Cognito
+https://www.youtube.com/watch?v=abTy-Yyo6lI
+https://www.youtube.com/watch?v=EAWWTjjQWz8
+https://www.youtube.com/watch?v=4elbue4tXu0
+
+KMS
+https://www.youtube.com/watch?v=bSbyDXHVOEc
+
+https://www.youtube.com/watch?v=jcibXVFiFek
+https://www.youtube.com/watch?v=ir777XGcAuw
+
+Codecommit
+https://www.youtube.com/watch?v=n42nFDTkTCI
+https://www.youtube.com/watch?v=kOU-7_Sc72U
+https://www.youtube.com/watch?v=8ftrKNbSv28&list=PLdpzxOOAlwvLUH6ww022l7OZGakJYP9WY&index=12
+https://www.youtube.com/watch?v=MncTfY22Phg
+
+
+Grafana
+https://www.youtube.com/watch?v=y80Vn-FkBMc
+
