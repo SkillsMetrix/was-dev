@@ -60,8 +60,36 @@ https://www.youtube.com/watch?v=RR0hhZUyjjc&list=PLLv1Hn1N3bRwhRLFm37JGCgkcI8wWt
 
 https://www.youtube.com/watch?v=1vMo6K4Zyas&list=PL-bgVzzRdaPhE4h7u9OWe0cf7P6H-MpeM&index=20
 
+day-2
 
 ————
+SNS Python
+https://chatgpt.com/c/692444e4-b344-8329-8636-80534a4c580f
+https://www.youtube.com/watch?v=j5Xp51eUyXE
+https://www.youtube.com/watch?v=lF7Ba4-8ER4
+Event bridge
+https://www.youtube.com/watch?v=8uFkqy0oIX0
+https://www.youtube.com/watch?v=jXQhaJIxLnE
+Lambda
+https://www.youtube.com/watch?v=4AgWKVBOjVc
+
+S3 bucket
+Api gateway
+
+kinesis
+https://chatgpt.com/c/692489c3-3d3c-8323-89ce-24bab4f1ffae
+
+Step functions
+https://www.youtube.com/watch?v=ge6Dm2HYG1E
+https://www.youtube.com/watch?v=GVpmVu8vcNQ&t=915s
+
+
+
+
+Mini pro
+https://chatgpt.com/c/6924996d-8100-8324-a50c-43be0b7f6096
+
+----------
 
 
 
