@@ -81,6 +81,7 @@ DYANMODB with lambda with s3
 https://chatgpt.com/c/6925bb4f-c2d8-8320-b833-1f8beb249da9
 
 RDS with secret manager
+https://www.youtube.com/watch?v=aavhP40FR7Y&t=2s
 https://www.youtube.com/watch?v=jEJ9vj-EJjk
 
 Elasticcache
@@ -90,6 +91,11 @@ https://www.youtube.com/watch?v=H3--8038so8
 
 Secret manager
 https://www.youtube.com/watch?v=pt9nAS4PVBI
+
+
+Concurrency
+https://www.youtube.com/watch?v=d8hgAemcmnc
+https://chatgpt.com/c/692596ed-1770-8320-8733-12d596b6afd0
 
 
 AWS Cognito
