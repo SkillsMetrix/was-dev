@@ -1,4 +1,3 @@
-#https://chatgpt.com/c/69245b15-fb58-8325-9e04-32640829d4be
 import boto3
 import json
 
