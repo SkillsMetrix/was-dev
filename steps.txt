@@ -53,52 +53,35 @@ https://www.youtube.com/watch?v=jXQhaJIxLnE
 
 
 
+Step functions
+https://www.youtube.com/watch?v=ge6Dm2HYG1E
+https://www.youtube.com/watch?v=GVpmVu8vcNQ&t=915s
+
+
 o   Streaming data with Amazon Kinesis
 https://www.youtube.com/watch?v=RR0hhZUyjjc&list=PLLv1Hn1N3bRwhRLFm37JGCgkcI8wWtQ-a
+
+https://www.youtube.com/watch?v=-LeOiLD7FVw&t=611s
 
 
 
 https://www.youtube.com/watch?v=1vMo6K4Zyas&list=PL-bgVzzRdaPhE4h7u9OWe0cf7P6H-MpeM&index=20
 
-day-2
 
 ————
-SNS Python
-https://chatgpt.com/c/692444e4-b344-8329-8636-80534a4c580f
-https://www.youtube.com/watch?v=j5Xp51eUyXE
-https://www.youtube.com/watch?v=lF7Ba4-8ER4
-Event bridge
-https://www.youtube.com/watch?v=8uFkqy0oIX0
-https://www.youtube.com/watch?v=jXQhaJIxLnE
-Lambda
-https://www.youtube.com/watch?v=4AgWKVBOjVc
 
-S3 bucket
-Api gateway
+MASTER_PASSWORD="StrongPassword123!"
+
+Day-2
 
 kinesis
 https://chatgpt.com/c/692489c3-3d3c-8323-89ce-24bab4f1ffae
 
-Step functions
-https://www.youtube.com/watch?v=ge6Dm2HYG1E
-https://www.youtube.com/watch?v=GVpmVu8vcNQ&t=915s
+DYANMODB with lambda with s3
+https://chatgpt.com/c/6925bb4f-c2d8-8320-b833-1f8beb249da9
 
-
-
-
-Mini pro
-https://chatgpt.com/c/6924996d-8100-8324-a50c-43be0b7f6096
-
-----------
-
-
-
-Day-2
-
-Step functions
-https://www.youtube.com/watch?v=ge6Dm2HYG1E
-https://www.youtube.com/watch?v=GVpmVu8vcNQ&t=915s
-
+RDS with secret manager
+https://www.youtube.com/watch?v=jEJ9vj-EJjk
 
 Elasticcache
 https://www.youtube.com/watch?v=mcF3iefRqLY&t=1008s
@@ -113,6 +96,9 @@ AWS Cognito
 https://www.youtube.com/watch?v=abTy-Yyo6lI
 https://www.youtube.com/watch?v=EAWWTjjQWz8
 https://www.youtube.com/watch?v=4elbue4tXu0
+
+Lambda layer
+https://www.youtube.com/watch?v=wnAI4VzkPJA&t=778s
 
 KMS
 https://www.youtube.com/watch?v=bSbyDXHVOEc
